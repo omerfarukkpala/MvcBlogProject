@@ -1,0 +1,73 @@
+﻿@model IEnumerable<EntityLayer.Concrete.About>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<div class="site-cover site-cover-sm same-height overlay single-page" style="background-image: url('/miniblog/images/img_4.jpg');">
+    <div class="container">
+        <div class="row same-height justify-content-center">
+            <div class="col-md-12 col-lg-10">
+                <div class="post-entry text-center">
+                    <h1 class="">Hakkımızda</h1>
+                    <p class="lead mb-4 text-white">Sizler için yüzlerce blog yazan yazarlarımızı ve ekibimizi daha yakından tanımak ister misiniz?</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section bg-light">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6 order-md-2">
+                    <img src="@item.AboutImage1" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-md-5 mr-auto order-md-1">
+                    <h2>Biz Kimiz?</h2>
+
+                    <p>@item.AboutContent1</p>
+
+                    <ul class="ul-check list-unstyled success">
+                        <li>Her gün 10 yeni blog yazısı</li>
+                        <li>15'den fazla kategori</li>
+                        <li>21 farklı dinamik yazar</li>
+                        <li>Günlük 45000 tekil okunma</li>
+                        <li>27 farklı ülkeden takipçi</li>
+                        <li>Sosyal medyada 325k abone</li>
+                    </ul>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@Html.Action("MeetTheTeam", "About")
+
+<div class="site-section bg-light">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6">
+                    <img src="@item.AboutImage2" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-md-5 ml-auto">
+                    <h2>Neler Yapıyoruz?</h2>
+                    <p class="mb-4">@item.AboutContent2</p>
+
+                    <ul class="ul-check list-unstyled success">
+                        <li>Seyahat yorumları</li>
+                        <li>Topkapı Sarayı'ndan yazılar</li>
+                        <li>En son teknoloji haberleri</li>
+                        <li>Programlama dilleri hakkında içerikler</li> 
+                    </ul>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@Html.Action("Footer", "About")

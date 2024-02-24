@@ -1,0 +1,18 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Blog>
+@foreach (var item in Model)
+{
+    <div class="post-content-body">
+        <p>@item.BlogContent</p>
+        <div class="row mb-5 mt-5">
+            <div class="col-md-12 mb-4">
+                <img src="@item.BlogImage" alt="Image placeholder" class="img-fluid rounded" style="height: 400px; width:800px">
+            </div>
+            <div class="col-md-6 mb-4">
+                <img src="@item.BlogImage2" alt="Image placeholder" class="img-fluid rounded" style="height: 275px; width:400px">
+            </div>
+            <div class="col-md-6 mb-4">
+                <img src="@item.BlogImage3" alt="Image placeholder" class="img-fluid rounded" style="height: 275px; width:400px">
+            </div>
+        </div>
+    </div>
+}

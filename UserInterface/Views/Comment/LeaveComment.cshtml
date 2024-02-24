@@ -1,0 +1,41 @@
+﻿<div class="comment-form-wrap pt-5">
+    <h3 class="mb-5">Bir Yorum Yazın</h3>
+    <form method="post" class="p-5 bg-light">
+        <div class="form-group">
+            <label for="name">Adınız *</label>
+            <input type="text" class="form-control" name="Username">
+        </div>
+        <div class="form-group">
+            <label for="email">Email Adresiniz *</label>
+            <input type="email" class="form-control" name="Mail">
+        </div>
+        <input type="hidden" name="CommentDate" value="@DateTime.Now.ToShortDateString()" />
+        <input type="hidden" name="BlogID" value="@ViewBag.id" />
+        <div class="form-group">
+            <label for="message">Yorumunuz *</label>
+            <textarea name="CommentText" cols="30" rows="10" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="message">Puanınız</label>
+            <label>@Html.RadioButton("BlogRating",1)1</label>
+            <label>@Html.RadioButton("BlogRating",2)2</label>
+            <label>@Html.RadioButton("BlogRating",3)3</label>
+            <label>@Html.RadioButton("BlogRating",4)4</label>
+            <label>@Html.RadioButton("BlogRating",5)5</label>
+            <label>@Html.RadioButton("BlogRating",6)6</label>
+            <label>@Html.RadioButton("BlogRating",7)7</label>
+            <label>@Html.RadioButton("BlogRating",8)8</label>
+            <label>@Html.RadioButton("BlogRating",9)9</label>
+            <label>@Html.RadioButton("BlogRating",10)10</label>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Yorum Yap" class="btn btn-primary">
+        </div>
+    </form>
+</div>
+
+<script>
+    if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    }
+</script>
