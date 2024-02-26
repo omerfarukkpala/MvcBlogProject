@@ -14,11 +14,11 @@
         <div class="row">
             @foreach (var item in Model)
             {
-                if (item.Category.CategoryName == "Seyahat")
+                if (item.Category.CategoryName == "Programlama")
                 {
                     color = "post-category text-white bg-primary mb-3";
                 }
-                if (item.Category.CategoryName == "Teknoloji")
+                if (item.Category.CategoryName == "Veri Bilimi")
                 {
                     color = "post-category text-white bg-secondary mb-3";
                 }
@@ -26,11 +26,11 @@
                 {
                     color = "post-category text-white bg-warning mb-3";
                 }
-                if (item.Category.CategoryName == "Kültür & Sanat")
+                if (item.Category.CategoryName == "Siber Güvenlik")
                 {
                     color = "post-category text-white bg-danger mb-3";
                 }
-                if (item.Category.CategoryName == "Film & Dizi")
+                if (item.Category.CategoryName == "Oyun Programlama")
                 {
                     color = "post-category text-white bg-success mb-3";
                 }
