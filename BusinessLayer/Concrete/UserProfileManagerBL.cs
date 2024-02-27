@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BusinessLayer.Concrete
-{
+{  
     public class UserProfileManagerBL
     {
         RepositoryDAL<Author> repouser = new RepositoryDAL<Author>();
