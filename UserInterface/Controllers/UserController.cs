@@ -10,7 +10,7 @@ using System.Web.Mvc;
 using System.Web.Security;
 
 namespace UserInterface.Controllers
-{
+{ 
     [Authorize]
     public class UserController : Controller
     {
