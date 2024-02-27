@@ -24,17 +24,17 @@ namespace UserInterface.Controllers
             List<Class1> c = new List<Class1>();
             c.Add(new Class1()
             {
-                CategoryName = "Teknoloji",
+                CategoryName = "Algoritma ve Robotik Kodlama",
                 BlogCount = 14
             });
             c.Add(new Class1()
             {
-                CategoryName = "Seyahat",
+                CategoryName = "Programlama Dilleri",
                 BlogCount = 10
             });
             c.Add(new Class1()
             {
-                CategoryName = "Kültür & Sanat",
+                CategoryName = "Oyun & Programlama",
                 BlogCount = 16
             });
             return c;
