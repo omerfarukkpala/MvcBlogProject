@@ -10,7 +10,7 @@ using EntityLayer.Concrete;
 using DataAccessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
 using System.IO;
-
+ 
 namespace UserInterface.Controllers
 {
     public class BlogController : Controller
