@@ -77,7 +77,7 @@ namespace UserInterface.Controllers
             ViewBag.bd4 = blogdate4;
             ViewBag.bpid4 = blogpostid4;
 
-            //5. Post
+            //5. Post 
             var posttitle5 = bm.GetList().OrderByDescending(z => z.BlogID).Where(x => x.CategoryID == 5).Select(y => y.BlogTitle).FirstOrDefault();
             var postimage5 = bm.GetList().OrderByDescending(z => z.BlogID).Where(x => x.CategoryID == 5).Select(y => y.BlogImage).FirstOrDefault();
             var blogdate5 = bm.GetList().OrderByDescending(z => z.BlogID).Where(x => x.CategoryID == 5).Select(y => y.BlogDate).FirstOrDefault();
