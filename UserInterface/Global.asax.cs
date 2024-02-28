@@ -7,7 +7,7 @@ using System.Web.Optimization;
 using System.Web.Routing;
 
 namespace UserInterface
-{
+{ 
     public class MvcApplication : System.Web.HttpApplication
     { 
         protected void Application_Start()
