@@ -9,5 +9,6 @@ namespace BusinessLayer.Abstract
 {
     public interface IAboutServiceBL : IGenericServiceBL<About>
     {
+
     }
 }
