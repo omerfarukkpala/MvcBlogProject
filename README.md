@@ -40,7 +40,7 @@ Bu blog projesi , blog yazarları  tarafından oluşturulan içeriklerden oluşm
 - **Register:** Yeni kullanıcı kaydının yapıldığı sayfa.
 
 
-## Yazar Paneli
+## Yazar Paneli Sayfaları
 Yazarlar, kendi profil bilgilerini düzenleyebilirler. Ayrıca, kendi yazılarını görüntüleyebilir, güncelleyebilir, silebilir ve yeni yazılar ekleyebilirler. Tüm aktif yazılar listelenebilir ve yazarlar yazılara yorum yapabilirler.
 - **Profilim:** Yazarların kişisel bilgilerini ve şifrelerini değiştirebildiği sayfa.
 - **Başlıklarım:** Yazarların kendi başlıklarını görebildiği, başlıklara yapılan yorumları yönetebildiği sayfa.
