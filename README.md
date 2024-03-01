@@ -71,5 +71,7 @@ Blogun yönetimi ve içeriği blog yöneticileri(admin) tarafından kontrol edil
 # Hakkımızda ![hakkimizda](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/4d9ef326-e199-442d-962b-c87097ca2107)
 # İletişim ![iletisim](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/c2455c53-04c7-4ec5-9eeb-4987e1f6a299)
 # Bir Blog Yazısı Detayları Yazarı , Yorumları ve  Örnek Resimleri ![örnek](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f97f5bbb-d335-4f5b-b62f-e45031c821e8)
+# Admin Girişi![admin girişi](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/d703125f-55aa-4f93-8bad-b0c210f58e54)
+# Yazar Girişi![yazar girişi](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/e1fab338-c006-4817-9b9c-b6bb266f3549)
 
 
