@@ -70,5 +70,6 @@ Blogun yönetimi ve içeriği blog yöneticileri(admin) tarafından kontrol edil
 # API Kategorisi ![api](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/c5f6e233-93f0-4f35-bed8-57a3b4727841)
 # Hakkımızda ![hakkimizda](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/4d9ef326-e199-442d-962b-c87097ca2107)
 # İletişim ![iletisim](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/c2455c53-04c7-4ec5-9eeb-4987e1f6a299)
-# Bir Blog Yazısı Detayları Yazarı , Yorumları ve  Örnek Resimleri 
+# Bir Blog Yazısı Detayları Yazarı , Yorumları ve  Örnek Resimleri ![örnek](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f97f5bbb-d335-4f5b-b62f-e45031c821e8)
+
 
