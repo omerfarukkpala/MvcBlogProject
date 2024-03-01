@@ -59,6 +59,8 @@ Blogun yönetimi ve içeriği blog yöneticileri tarafından kontrol edilir.
 
 # Index Sayfası Görünümü  ![screencapture-localhost-44354-Blog-Index-2024-03-01-11_58_49](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/50a047df-e27e-4ede-82ac-d8f8b67d8d9f)
 
+# Index 2 ![index2](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/437e63bd-e8fa-4bce-88cf-92ef289b986c)
+
 # Veritabanı Kategorisi![veritabanikategorisi](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/401062b7-0efd-4c55-8a2f-0ace3ebc98d2)
 
 # Algoritma Kategorisi![algoritma](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f4df858f-eb93-4ba7-b6de-60d4cea1bb68)
