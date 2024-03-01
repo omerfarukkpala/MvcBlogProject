@@ -23,11 +23,34 @@ Projede, kullanıcılar ana sayfada öne çıkan postları görebilirler. Menüd
 - **PagedList (Sayfalama):** Veri kümesini sayfalar halinde görüntülemek için PagedList kütüphanesi kullanılmıştır.
 ## Blog İçeriği
 
-Bu blog, blog yöneticileri tarafından oluşturulan içeriklerden oluşmaktadır. Ana sayfa üzerinde öne çıkan yazılar ve kategorilere erişim sağlanabilir. Kullanıcılar, ilgili kategoriye ait yazıları filtreleyebilir ve sayfalama sistemiyle yazıları sayfalara bölünmüş bir şekilde görüntüleyebilirler. Her yazının detaylı incelemesi yapılabilir.
+Bu blog projesi , blog yazarları  tarafından oluşturulan içeriklerden oluşmaktadır. Ana sayfa üzerinde öne çıkan yazılar ve kategorilere erişim sağlanabilir. Kullanıcılar, ilgili kategoriye ait yazıları filtreleyebilir ve sayfalama sistemiyle yazıları sayfalara bölünmüş bir şekilde görüntüleyebilirler. Her yazının detaylı incelemesi yapılabilir.
+
+## Admin Paneli Sayfaları
+
+- **Kategoriler:** Kategorilerin yönetildiği ve altındaki başlıkların görüntülendiği sayfa.
+- **Başlıklar:** Başlıkların listelendiği, güncellendiği, silindiği ve yeni başlık eklemenin yapıldığı sayfa.
+- **Yazılar:** Tüm yazıların listelendiği ve arama yapılabildiği sayfa.
+- **Yazarlar:** Yazarların listelendiği, güncellendiği ve yeni yazar eklenmesinin yapıldığı sayfa.
+- **Grafikler:** Google Grafikler kullanılarak oluşturulan grafiklerin bulunduğu sayfa.
+- **Hakkımızda:** Vitrinde yer alan "Hakkımızda" kısmının yönetildiği sayfa.
+- **İletişim & Mesajlar:** İletişim formundan gelen mesajların görüntülendiği ve yönetildiği sayfa.
+- **Yetkilendirmeler:** Admin yetkilerinin yönetildiği sayfa.
+- **Galeri:** Sözlük galerisinin yönetildiği sayfa.
+- **Yeteneklerim:** Admin yeteneklerinin yönetildiği sayfa.
+- **Login:** Kullanıcı girişinin yapıldığı sayfa.
+- **Register:** Yeni kullanıcı kaydının yapıldığı sayfa.
+
 
 ## Yazar Paneli
-
 Yazarlar, kendi profil bilgilerini düzenleyebilirler. Ayrıca, kendi yazılarını görüntüleyebilir, güncelleyebilir, silebilir ve yeni yazılar ekleyebilirler. Tüm aktif yazılar listelenebilir ve yazarlar yazılara yorum yapabilirler.
+- **Profilim:** Yazarların kişisel bilgilerini ve şifrelerini değiştirebildiği sayfa.
+- **Başlıklarım:** Yazarların kendi başlıklarını görebildiği, başlıklara yapılan yorumları yönetebildiği sayfa.
+- **Tüm Başlıklar:** Tüm başlıkların listelendiği, başlıklara yapılan yorumları görebildiği sayfa.
+- **Yazılarım:** Yazarların kendi yazılarını görebildiği sayfa.
+- **Mesajlar:** Yazarların diğer kullanıcılara ve yöneticilere mesaj gönderebildiği, aldığı ve gönderdiği mesajları yönetebildiği sayfa.
+- **Login:** Kullanıcı girişinin yapıldığı sayfa.
+- **Register:** Yeni kullanıcı kaydının yapıldığı sayfa.
+
 
 ## Yorumlar
 
