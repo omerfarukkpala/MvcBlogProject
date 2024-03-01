@@ -65,5 +65,9 @@ Blogun yönetimi ve içeriği blog yöneticileri tarafından kontrol edilir.
 
 # Algoritma Kategorisi![algoritma](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f4df858f-eb93-4ba7-b6de-60d4cea1bb68)
 
+# Programlama Dilleri ![programlamadilleri](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/e0248023-0ca9-4b07-b868-25994268a6fc)
 
-
+# Oyun Programlama 
+![oyunprogramlama](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/a5ac120e-4ec6-43ed-8d1b-a15f7f7baaf2)
+# API Kategorisi 
+![api](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/c5f6e233-93f0-4f35-bed8-57a3b4727841)
