@@ -1,4 +1,4 @@
-# Asp.Net Mvc ile Kurumsal Mimaride 3 Panelli (Vitrin-Yazar-Admin)  Blog Projesi 
+# Asp.Net Mvc ile Kurumsal Mimaride 3 Panelli (Blog-Yazar-Admin)  Blog Projesi 
 Bu proje, Asp.Net Mvc5 kullanılarak geliştirilmiş ve katmanlı mimariye uygun bir blog sitesidir.
 
 ### Proje Detayları
@@ -50,15 +50,12 @@ Yazarlar, kendi profil bilgilerini düzenleyebilirler. Ayrıca, kendi yazıları
 - **Login:** Kullanıcı girişinin yapıldığı sayfa.
 - **Register:** Yeni kullanıcı kaydının yapıldığı sayfa.
 
-
 ## Yorumlar
-
 Kullanıcılar, blog yazılarına yorum yapabilirler. Yorumlar, yöneticiler tarafından incelenebilir ve onaylanabilir. Yorumlar, blog yazılarının altında görüntülenir ve okuyucular tarafından görülebilir.
-
 ## Not
-
 Blogun yönetimi ve içeriği blog yöneticileri tarafından kontrol edilir.
 
+## Veritabanı ![image](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f8b086ab-333b-46f9-9b86-816bee0d580d)
 
 
 
