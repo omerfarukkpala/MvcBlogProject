@@ -53,7 +53,7 @@ Yazarlar, kendi profil bilgilerini düzenleyebilirler. Ayrıca, kendi yazıları
 ## Yorumlar
 Kullanıcılar, blog yazılarına yorum yapabilirler. Yorumlar, yöneticiler tarafından incelenebilir ve onaylanabilir. Yorumlar, blog yazılarının altında görüntülenir ve okuyucular tarafından görülebilir.
 ## Not
-Blogun yönetimi ve içeriği blog yöneticileri tarafından kontrol edilir.
+Blogun yönetimi ve içeriği blog yöneticileri(admin) tarafından kontrol edilir.
 
 ## Veritabanı ![image](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f8b086ab-333b-46f9-9b86-816bee0d580d)
 
@@ -66,8 +66,9 @@ Blogun yönetimi ve içeriği blog yöneticileri tarafından kontrol edilir.
 # Algoritma Kategorisi![algoritma](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f4df858f-eb93-4ba7-b6de-60d4cea1bb68)
 
 # Programlama Dilleri ![programlamadilleri](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/e0248023-0ca9-4b07-b868-25994268a6fc)
+# Oyun Programlama ![oyunprogramlama](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/a5ac120e-4ec6-43ed-8d1b-a15f7f7baaf2)
+# API Kategorisi ![api](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/c5f6e233-93f0-4f35-bed8-57a3b4727841)
+# Hakkımızda ![hakkimizda](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/4d9ef326-e199-442d-962b-c87097ca2107)
+# İletişim ![iletisim](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/c2455c53-04c7-4ec5-9eeb-4987e1f6a299)
+# Bir Blog Yazısı Detayları Yazarı , Yorumları ve  Örnek Resimleri 
 
-# Oyun Programlama 
-![oyunprogramlama](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/a5ac120e-4ec6-43ed-8d1b-a15f7f7baaf2)
-# API Kategorisi 
-![api](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/c5f6e233-93f0-4f35-bed8-57a3b4727841)
