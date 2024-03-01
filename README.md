@@ -61,6 +61,7 @@ Blogun yönetimi ve içeriği blog yöneticileri tarafından kontrol edilir.
 
 # Veritabanı Kategorisi![veritabanikategorisi](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/401062b7-0efd-4c55-8a2f-0ace3ebc98d2)
 
+# Algoritma Kategorisi![algoritma](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f4df858f-eb93-4ba7-b6de-60d4cea1bb68)
 
 
 
