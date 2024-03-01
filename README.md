@@ -1,5 +1,4 @@
 # Asp.Net Mvc ile Kurumsal Mimaride 3 Panelli (Vitrin-Yazar-Admin)  Blog Projesi 
-   .
 Bu proje, Asp.Net Mvc5 kullanılarak geliştirilmiş ve katmanlı mimariye uygun bir blog sitesidir.
 
 ### Proje Detayları
