@@ -2,9 +2,10 @@
    .
 Bu proje, Asp.Net Mvc5 kullanılarak geliştirilmiş ve katmanlı mimariye uygun bir blog sitesidir.
 
-## Proje Tanımı
+### Proje Detayları
 
 Bu projede, katmanlı mimariye uygun bir şekilde tasarlanmış ve OOP (Object-Oriented Programming) prensiplerine bağlı kalarak geliştirilmiştir. Kullanıcılar, blogları görüntüleyebilir, yorum yapabilir ve yöneticiler de bütün içeriğe erişebilir.
+Projede, kullanıcılar ana sayfada öne çıkan postları görebilirler. Menüde yer alan kategorilere erişim sağlanabilir ve filtreleme ile sadece ilgili kategoriye ait postlar görüntülenebilir. Sayfalama sistemi kullanılarak postlar sayfalara bölünmüştür. Post detaylarına tıklandığında detaylı inceleme yapılabilir. Ayrıca projede mail bülteni ve footer bulunmaktadır.
 
 ## Kullanılan Teknolojiler
 
@@ -20,10 +21,23 @@ Bu projede, katmanlı mimariye uygun bir şekilde tasarlanmış ve OOP (Object-O
 - **Linq Sorguları:** Veri sorgulama ve manipülasyonu için Linq sorguları kullanılmıştır.
 - **Generic Repository:** Veritabanı işlemlerini soyutlamak ve tekrar kullanılabilirlik sağlamak için Generic Repository deseni uygulanmıştır.
 - **PagedList (Sayfalama):** Veri kümesini sayfalar halinde görüntülemek için PagedList kütüphanesi kullanılmıştır.
+## Blog İçeriği
 
-### Proje Detayları
+Bu blog, blog yöneticileri tarafından oluşturulan içeriklerden oluşmaktadır. Ana sayfa üzerinde öne çıkan yazılar ve kategorilere erişim sağlanabilir. Kullanıcılar, ilgili kategoriye ait yazıları filtreleyebilir ve sayfalama sistemiyle yazıları sayfalara bölünmüş bir şekilde görüntüleyebilirler. Her yazının detaylı incelemesi yapılabilir.
 
-Projede, kullanıcılar ana sayfada öne çıkan postları görebilirler. Menüde yer alan kategorilere erişim sağlanabilir ve filtreleme ile sadece ilgili kategoriye ait postlar görüntülenebilir. Sayfalama sistemi kullanılarak postlar sayfalara bölünmüştür. Post detaylarına tıklandığında detaylı inceleme yapılabilir. Ayrıca projede mail bülteni ve footer bulunmaktadır.
+## Yazar Paneli
+
+Yazarlar, kendi profil bilgilerini düzenleyebilirler. Ayrıca, kendi yazılarını görüntüleyebilir, güncelleyebilir, silebilir ve yeni yazılar ekleyebilirler. Tüm aktif yazılar listelenebilir ve yazarlar yazılara yorum yapabilirler.
+
+## Yorumlar
+
+Kullanıcılar, blog yazılarına yorum yapabilirler. Yorumlar, yöneticiler tarafından incelenebilir ve onaylanabilir. Yorumlar, blog yazılarının altında görüntülenir ve okuyucular tarafından görülebilir.
+
+## Not
+
+Blogun yönetimi ve içeriği blog yöneticileri tarafından kontrol edilir.
+
+
 
 
 
