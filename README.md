@@ -8,19 +8,18 @@ Bu projede, katmanlı mimariye uygun bir şekilde tasarlanmış ve OOP (Object-O
 
 ## Kullanılan Teknolojiler
 
-- Layout kontrolü
-- Controller Yapısı
-- N Katmanlı Mimari
-- Entity Framework (Code First)
-- View Yapısı
-- Bootstrap
-- İlişkili Tablolar
-- Partial View
-- Dashboard yapısı
-- Linq Sorguları
-- Code First
-- Generic Repository
-- PagedList (Sayfalama)
+- **Layout kontrolü:** Bootstrap tabanlı bir kullanıcı arayüzü tasarlanmıştır.
+- **Controller Yapısı:** MVC (Model-View-Controller) mimarisi kullanılmıştır.
+- **N Katmanlı Mimari:** Mantıksal katmanları düzenlemek ve işlevleri modülerleştirmek amacıyla uygulanmıştır.
+- **Entity Framework (Code First):** Veritabanı işlemleri ve ilişkisel tablolar için Entity Framework kullanılmıştır.
+- **View Yapısı:** Ayrıntılı ve modüler bir görüntüleme yapısı oluşturulmuştur.
+- **Bootstrap:** Duyarlı tasarım ve kullanıcı arayüzü bileşenleri için Bootstrap çerçevesi kullanılmıştır.
+- **İlişkili Tablolar:** Veritabanı tabloları arasında ilişkiler kurulmuş ve veri bütünlüğü sağlanmıştır.
+- **Partial View:** Tekrar kullanılabilir ve modüler görünümler oluşturmak için parçalı görünümler kullanılmıştır.
+- **Dashboard yapısı:** Genel bir kontrol ve özet paneli oluşturulmuştur.
+- **Linq Sorguları:** Veri sorgulama ve manipülasyonu için Linq sorguları kullanılmıştır.
+- **Generic Repository:** Veritabanı işlemlerini soyutlamak ve tekrar kullanılabilirlik sağlamak için Generic Repository deseni uygulanmıştır.
+- **PagedList (Sayfalama):** Veri kümesini sayfalar halinde görüntülemek için PagedList kütüphanesi kullanılmıştır.
 
 ### Proje Detayları
 
