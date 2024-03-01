@@ -56,6 +56,7 @@ Kullanıcılar, blog yazılarına yorum yapabilirler. Yorumlar, yöneticiler tar
 Blogun yönetimi ve içeriği blog yöneticileri(admin) tarafından kontrol edilir.
 
 ## Veritabanı ![image](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f8b086ab-333b-46f9-9b86-816bee0d580d)
+# Puanlama Trigger ![image](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/bfb6bff4-2d37-40a8-87be-77508d213c7a)
 
 # Index Sayfası Görünümü  ![screencapture-localhost-44354-Blog-Index-2024-03-01-11_58_49](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/50a047df-e27e-4ede-82ac-d8f8b67d8d9f)
 
@@ -88,5 +89,10 @@ Blogun yönetimi ve içeriği blog yöneticileri(admin) tarafından kontrol edil
 # Admin Kategori Düzenleme ![kategori düzenleme](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/0b5c4c1f-4e7e-4323-9cbb-a86d60ce3a88)
 # Admin Hakkımızda Sayfası Düzenleme ![adminhakkimizdadüzenleme](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/588dce1e-13b4-4ad5-9e30-948e7c74a826)
 # Admin İletişim ![iletişim](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/4d3d6a8e-6ce2-44e8-9ec1-52a5153120ff)
-# Admin Grafikler 
+# Admin Grafikler Statik ![statikgrafik](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/af6cd357-b34d-406e-9672-08aab4d43598)
+# Admin Grafik Pie ![pasta grafik](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/89f30d5c-ffe2-46d0-97fb-e339e6bf890f)
+# Admin Grafik Column ![columngrafik](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/36fd6682-85cb-4898-8325-784c7d622709)
+# Admin Grafik Line ![line](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/a33bfe0f-0edf-4612-aaff-790e45a3119c)
+###  İncelediğiniz için teşekkür ederim 
+
 
