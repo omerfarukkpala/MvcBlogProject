@@ -83,5 +83,10 @@ Blogun yönetimi ve içeriği blog yöneticileri(admin) tarafından kontrol edil
 # Admin , Yazar Blog Listesi ![adminbloglist](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/267d2428-3144-4eea-b66c-6932740593ec)
 # Admin Blog Güncelleme ![admingünceleme](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/6afbfb5a-30bf-4152-8776-e07da6768591)
 # Admin Yorumlar (Yayınlanan ve Kaldırılan Yorumlar ) ![yayınlananyorumlar](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/f79171de-05ee-42d4-a5dd-0f795c1771cb)
-
+# Admin Kategoriler ![kategoriler](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/a76ee70c-227e-4167-a67f-15798080d922)
+# Admin Kategori Ekleme ![yenikategoriekleme](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/eef3ebef-deec-4021-b7c3-4ed7e90f60b9)
+# Admin Kategori Düzenleme ![kategori düzenleme](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/0b5c4c1f-4e7e-4323-9cbb-a86d60ce3a88)
+# Admin Hakkımızda Sayfası Düzenleme ![adminhakkimizdadüzenleme](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/588dce1e-13b4-4ad5-9e30-948e7c74a826)
+# Admin İletişim ![iletişim](https://github.com/omerfarukkpala/MvcBlogProject/assets/101570820/4d3d6a8e-6ce2-44e8-9ec1-52a5153120ff)
+# Admin Grafikler 
 
