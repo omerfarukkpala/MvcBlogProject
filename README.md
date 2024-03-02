@@ -1,5 +1,5 @@
 # Asp.Net Mvc ile Katmanlı  Mimaride 3 Panelli (Blog-Yazar-Admin)  Blog Projesi 
-Bu proje, Asp.Net Mvc5 kullanılarak geliştirilmiş ve katmanlı mimariye uygun bir blog sitesidir.
+Bu proje, Asp.Net Mvc5 kullanılarak geliştirilmiş ve katmanlı mimariye uygun bir blog sitesidir. 
  
 ### Proje Detayları 
 
