@@ -9,7 +9,7 @@ https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/01ae95f9-eac5-
   
 ## Kullanılan Teknolojiler
 
-- **Layout kontrolü:** Layout kontrolü için ASP.NET MVC'nin sağladığı yapılar kullanılmıştır.
+- **Layout kontrolü:** Layout kontrolü için ASP.NET MVC'nin sağladığı yapılar kullanılmıştır. 
 - **Controller Yapısı:** Controller yapısı MVC mimarisine uygun olarak tasarlanmıştır. MVC (Model-View-Controller) mimarisi kullanılmıştır.
 - **N Katmanlı Mimari:** Mantıksal katmanları düzenlemek ve işlevleri modülerleştirmek amacıyla uygulanmıştır.
 - **Entity Framework (Code First):** Veritabanı işlemleri ve ilişkisel tablolar için Entity Framework kullanılmıştır.
