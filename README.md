@@ -1,7 +1,7 @@
   # Asp.Net Mvc ile Katmanlı  Mimaride 3 Panelli (Blog-Yazar-Admin)  Blog Projesi                                                                   
 Bu proje, Asp.Net Mvc5 kullanılarak geliştirilmiş ve katmanlı mimariye uygun bir blog sitesidir.                     
 ### Proje Detayları                                         
-                            
+                             
 Bu projede, katmanlı mimariye uygun bir şekilde tasarlanmış ve OOP (Object-Oriented Programming) prensiplerine bağlı kalarak geliştirilmiştir. Kullanıcılar, blogları görüntüleyebilir, yorum yapabilir ve yöneticiler de bütün içeriğe erişebilir.
 Projede, kullanıcılar ana sayfada öne çıkan postları görebilirler. Menüde yer alan kategorilere erişim sağlanabilir ve filtreleme ile sadece ilgili kategoriye ait postlar görüntülenebilir. Sayfalama sistemi kullanılarak postlar sayfalara bölünmüştür. Post detaylarına tıklandığında detaylı inceleme yapılabilir. Ayrıca projede mail bülteni ve footer bulunmaktadır.
  
