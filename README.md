@@ -1,4 +1,4 @@
-  # Asp.Net  ile Katmanlı  Mimaride 3 Panelli (Blog-Yazar-Admin)  Blog Projesi                                                                    
+  # Asp.Net  ile Katmanlı  Mimaride 3 Panelli (Blog-Yazar-Admin)  Blog Projesi                                                                     
 Bu proje, Asp.Net  kullanılarak geliştirilmiş ve katmanlı mimariye uygun bir blog sitesidir.                     
 ### Proje Detayları                                                            
                                             
