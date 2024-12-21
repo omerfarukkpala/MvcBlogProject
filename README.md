@@ -6,7 +6,7 @@ Bu projede, katmanlı mimariye uygun bir şekilde tasarlanmış ve OOP (Object-O
 Projede, kullanıcılar ana sayfada öne çıkan postları görebilirler. Menüde yer alan kategorilere erişim sağlanabilir ve filtreleme ile sadece ilgili kategoriye ait postlar görüntülenebilir. Sayfalama sistemi kullanılarak postlar sayfalara bölünmüştür. Post detaylarına tıklandığında detaylı inceleme yapılabilir. Ayrıca projede mail bülteni bulunmaktadır.  
     
 https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/01ae95f9-eac5-47bb-9eac-8226c8f464a2
-      
+       
 ## Kullanılan Teknolojiler     
  
 - **Layout kontrolü:** Layout kontrolü için ASP.NET MVC'nin sağladığı yapılar kullanılmıştır. 
