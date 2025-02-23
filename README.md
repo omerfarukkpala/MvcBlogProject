@@ -7,7 +7,7 @@ Projede, kullanıcılar ana sayfada öne çıkan postları görebilirler. Menüd
       
 https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/01ae95f9-eac5-47bb-9eac-8226c8f464a2
         
-## Kullanılan Teknolojiler       
+## Kullanılan Teknolojiler        
  
 - **Layout kontrolü:** Layout kontrolü için ASP.NET MVC'nin sağladığı yapılar kullanılmıştır. 
 - **Controller Yapısı:** Controller yapısı MVC mimarisine uygun olarak tasarlanmıştır. MVC (Model-View-Controller) mimarisi kullanılmıştır.
